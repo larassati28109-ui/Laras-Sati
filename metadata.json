@@ -1,0 +1,6 @@
+{
+  "name": "MODE. - Butik Fashion Wanita",
+  "description": "Butik online fashion wanita premium modern terpercaya dengan katalog pakaian, gaun, dress, akesesoris, serta sepatu & heels elegan, didukung asisten gaya AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
